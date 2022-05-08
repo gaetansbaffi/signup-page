@@ -2,4 +2,4 @@
 
 Sign up form project from The Odin Project
 
-live preview >
+live preview > https://gaetansbaffi.github.io/signup-page/
